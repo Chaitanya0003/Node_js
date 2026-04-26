@@ -1,14 +1,4 @@
-1777189434357: / New Request Received
-1777189910211: /about New Request Received
-1777189935088: /about New Request Received
-1777189948253: /about?username=CT New Request Received
-1777190065448: /about?username=CT New Request Received
-1777190098110: /about?username=CT New Request Received
-1777190135758: /about?username=CT New Request Received
-1777190149492: /about?username=CT&userId=1 New Request Received
-1777190167253: /about?username=CT&userId=1 New Request Received
-1777190195271: /about?username=CT&userId=1 New Request Received
-1777190201991: /about?username=CT&userId=1 New Request Received
-1777190260622: /about?username=chaitanya&userId=1 New Request Received
-1777190281356: /about?username=chaitanya&userId=1 New Request Received
-1777190298109: /about?username=chaitanya&userId=1 New Request Received
+1777202995489: GET / New Request Received
+1777203007754: GET /about New Request Received
+1777203027198: GET /contact New Request Received
+1777203155172: GET /signup New Request Received
